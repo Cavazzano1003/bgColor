@@ -1,0 +1,23 @@
+stima HTML 1h
+- body 10min
+- form 10min
+- div scritte 10min
+- div bottoni 10min
+
+stima CSS 1h
+- scritta1 5min
+- scritta2 5min
+- bottone1 5min
+- bottone2 5min
+- bottone3 5min
+- bottone4 5min
+- bottone5 5min
+- bottone6 5min
+
+stima JAVASCRIPT 30minuti
+- function rosso 5min
+- function verdechiaro 5min
+- function blu 5min
+- function verdescuro 5min
+- function viola 5min
+- function giallo 5min
