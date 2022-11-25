@@ -14,7 +14,7 @@ function verdescuro(bottone){
     document.body.style.backgroundColor="#72BC59";
 }
 
-function magenta(bottone){
+function viola(bottone){
     document.body.style.backgroundColor="#BC59A0";
 }
 
