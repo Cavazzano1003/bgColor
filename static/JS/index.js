@@ -1,23 +1,23 @@
 function rosso(bottone){
-    document.body.style.backgroundColor="red";
+    document.body.style.backgroundColor="#FE0202";
 }
 
 function verdechiaro(bottone){
-    document.body.style.backgroundColor="green";
+    document.body.style.backgroundColor="#59BC98";
 }
 
 function blu(bottone){
-    document.body.style.backgroundColor="blue";
+    document.body.style.backgroundColor="#2594D2";
 }
 
 function verdescuro(bottone){
-    document.body.style.backgroundColor="pink";
+    document.body.style.backgroundColor="#72BC59";
 }
 
 function magenta(bottone){
-    document.body.style.backgroundColor="magenta";
+    document.body.style.backgroundColor="#BC59A0";
 }
 
 function giallo(bottone){
-    document.body.style.backgroundColor="yellow";
+    document.body.style.backgroundColor="#DCF73C";
 }
